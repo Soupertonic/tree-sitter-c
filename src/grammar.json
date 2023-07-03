@@ -3058,6 +3058,10 @@
         },
         {
           "type": "STRING",
+          "value": "constexpr"
+        },
+        {
+          "type": "STRING",
           "value": "volatile"
         },
         {

@@ -3529,6 +3529,10 @@
     "named": false
   },
   {
+    "type": "constexpr",
+    "named": false
+  },
+  {
     "type": "continue",
     "named": false
   },

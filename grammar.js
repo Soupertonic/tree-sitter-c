@@ -475,6 +475,7 @@ module.exports = grammar({
 
     type_qualifier: _ => choice(
       'const',
+      'constexpr',
       'volatile',
       'restrict',
       '__restrict__',
